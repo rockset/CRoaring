@@ -6,7 +6,6 @@ var classroaring_1_1Roaring64MapSetBitForwardIterator =
     [ "reference", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#ac93eca309b7d0e98fac06681f2b20a89", null ],
     [ "type_of_iterator", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a782237cb4abcaf9695580ae2123a5c95", null ],
     [ "value_type", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a2b1485e27fa3b083c66dde19abe148ad", null ],
-    [ "Roaring64MapSetBitForwardIterator", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#af673422901805b33dcae7efb527901f4", null ],
     [ "Roaring64MapSetBitForwardIterator", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a1a2a144d9277e2369774b41d99733e76", null ],
     [ "move", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a32f5390b5d35db2129e6a91dd6d4b356", null ],
     [ "operator!=", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a065e78032307c6b04df4bb9cdc08442a", null ],
@@ -15,12 +14,11 @@ var classroaring_1_1Roaring64MapSetBitForwardIterator =
     [ "operator++", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a9d83d73943243637ece54923c004afbe", null ],
     [ "operator<", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#afd368ae3704429d69efb2bfc6808f758", null ],
     [ "operator<=", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#adbd7c828a8293a216abe0294ef66a14f", null ],
-    [ "operator=", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a0d7abb3f0c36916788fad5a66cea824e", null ],
     [ "operator==", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#ab039dec3f2cf52bd29793419e5cf658d", null ],
     [ "operator>", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#ad3eb2216a02e62038c5777a45a52df8e", null ],
     [ "operator>=", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a62a5919346b6ac78a0906982e01cba89", null ],
     [ "i", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#aef0b6f2568c2e0472004ee1ca876e96c", null ],
     [ "map_end", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a2d7ae6deb219769489018dcccf08abcf", null ],
     [ "map_iter", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a134a9519d93372ffd7fb897f6dac4ac1", null ],
-    [ "p", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a26dc226141d10cd5e995db8ba038a9eb", null ]
+    [ "p", "df/d71/classroaring_1_1Roaring64MapSetBitForwardIterator.html#a2647912bfea0d08b29dc51edd23e159f", null ]
 ];
